@@ -1,0 +1,520 @@
+[
+  {
+    "id": "ux-course-01",
+    "order": 1,
+    "slug": "UIUX入门",
+    "title": "UI/UX入门与设计学习路线",
+    "description": "UI/UX区别、设计思维、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "UI/UX入门与设计学习路线"
+    ],
+    "lessonIds": [
+      "ux-lesson-001",
+      "ux-lesson-002",
+      "ux-lesson-003",
+      "ux-lesson-004",
+      "ux-lesson-005",
+      "ux-lesson-006",
+      "ux-lesson-007",
+      "ux-lesson-008",
+      "ux-lesson-009",
+      "ux-lesson-010",
+      "ux-lesson-011",
+      "ux-lesson-012",
+      "ux-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-02",
+    "order": 2,
+    "slug": "UX基础",
+    "title": "用户体验基础与设计思维",
+    "description": "用户体验要素、设计思维5阶段、以用户为中心。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "用户体验基础与设计思维"
+    ],
+    "lessonIds": [
+      "ux-lesson-014",
+      "ux-lesson-015",
+      "ux-lesson-016",
+      "ux-lesson-017",
+      "ux-lesson-018",
+      "ux-lesson-019",
+      "ux-lesson-020",
+      "ux-lesson-021",
+      "ux-lesson-022",
+      "ux-lesson-023",
+      "ux-lesson-024",
+      "ux-lesson-025",
+      "ux-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-03",
+    "order": 3,
+    "slug": "用户研究",
+    "title": "用户研究、需求分析与用户画像",
+    "description": "访谈、问卷、用户画像、用户旅程图。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "用户研究、需求分析与用户画像"
+    ],
+    "lessonIds": [
+      "ux-lesson-027",
+      "ux-lesson-028",
+      "ux-lesson-029",
+      "ux-lesson-030",
+      "ux-lesson-031",
+      "ux-lesson-032",
+      "ux-lesson-033",
+      "ux-lesson-034",
+      "ux-lesson-035",
+      "ux-lesson-036",
+      "ux-lesson-037",
+      "ux-lesson-038",
+      "ux-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-04",
+    "order": 4,
+    "slug": "信息架构",
+    "title": "信息架构与用户流程",
+    "description": "信息架构、用户流程图、任务流程。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "信息架构与用户流程"
+    ],
+    "lessonIds": [
+      "ux-lesson-040",
+      "ux-lesson-041",
+      "ux-lesson-042",
+      "ux-lesson-043",
+      "ux-lesson-044",
+      "ux-lesson-045",
+      "ux-lesson-046",
+      "ux-lesson-047",
+      "ux-lesson-048",
+      "ux-lesson-049",
+      "ux-lesson-050",
+      "ux-lesson-051",
+      "ux-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-05",
+    "order": 5,
+    "slug": "交互设计",
+    "title": "交互设计基础",
+    "description": "交互原则、反馈、一致、可用性。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "交互设计基础"
+    ],
+    "lessonIds": [
+      "ux-lesson-053",
+      "ux-lesson-054",
+      "ux-lesson-055",
+      "ux-lesson-056",
+      "ux-lesson-057",
+      "ux-lesson-058",
+      "ux-lesson-059",
+      "ux-lesson-060",
+      "ux-lesson-061",
+      "ux-lesson-062",
+      "ux-lesson-063",
+      "ux-lesson-064",
+      "ux-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-06",
+    "order": 6,
+    "slug": "低保真原型",
+    "title": "低保真原型与线框图",
+    "description": "线框图工具、布局设计、页面结构。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "低保真原型与线框图"
+    ],
+    "lessonIds": [
+      "ux-lesson-066",
+      "ux-lesson-067",
+      "ux-lesson-068",
+      "ux-lesson-069",
+      "ux-lesson-070",
+      "ux-lesson-071",
+      "ux-lesson-072",
+      "ux-lesson-073",
+      "ux-lesson-074",
+      "ux-lesson-075",
+      "ux-lesson-076",
+      "ux-lesson-077",
+      "ux-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-07",
+    "order": 7,
+    "slug": "高保真UI",
+    "title": "高保真UI设计基础",
+    "description": "视觉设计、一致性、组件设计。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "高保真UI设计基础"
+    ],
+    "lessonIds": [
+      "ux-lesson-079",
+      "ux-lesson-080",
+      "ux-lesson-081",
+      "ux-lesson-082",
+      "ux-lesson-083",
+      "ux-lesson-084",
+      "ux-lesson-085",
+      "ux-lesson-086",
+      "ux-lesson-087",
+      "ux-lesson-088",
+      "ux-lesson-089",
+      "ux-lesson-090",
+      "ux-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-08",
+    "order": 8,
+    "slug": "排版颜色",
+    "title": "排版、颜色、间距与视觉层级",
+    "description": "字体、色板、间距系统、视觉层级原则。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "排版、颜色、间距与视觉层级"
+    ],
+    "lessonIds": [
+      "ux-lesson-092",
+      "ux-lesson-093",
+      "ux-lesson-094",
+      "ux-lesson-095",
+      "ux-lesson-096",
+      "ux-lesson-097",
+      "ux-lesson-098",
+      "ux-lesson-099",
+      "ux-lesson-100",
+      "ux-lesson-101",
+      "ux-lesson-102",
+      "ux-lesson-103",
+      "ux-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-09",
+    "order": 9,
+    "slug": "表单导航",
+    "title": "表单、列表、卡片与导航设计",
+    "description": "表单设计、卡片布局、导航方式。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "表单、列表、卡片与导航设计"
+    ],
+    "lessonIds": [
+      "ux-lesson-105",
+      "ux-lesson-106",
+      "ux-lesson-107",
+      "ux-lesson-108",
+      "ux-lesson-109",
+      "ux-lesson-110",
+      "ux-lesson-111",
+      "ux-lesson-112",
+      "ux-lesson-113",
+      "ux-lesson-114",
+      "ux-lesson-115",
+      "ux-lesson-116",
+      "ux-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-10",
+    "order": 10,
+    "slug": "响应式设计",
+    "title": "移动端与Web端响应式设计",
+    "description": "响应式原则、断点、自适应布局。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "移动端与Web端响应式设计"
+    ],
+    "lessonIds": [
+      "ux-lesson-118",
+      "ux-lesson-119",
+      "ux-lesson-120",
+      "ux-lesson-121",
+      "ux-lesson-122",
+      "ux-lesson-123",
+      "ux-lesson-124",
+      "ux-lesson-125",
+      "ux-lesson-126",
+      "ux-lesson-127",
+      "ux-lesson-128",
+      "ux-lesson-129",
+      "ux-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-11",
+    "order": 11,
+    "slug": "设计系统",
+    "title": "设计系统、组件库与Design Token",
+    "description": "设计系统架构、组件库、Design Token、样式管理。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "设计系统、组件库与Design Token"
+    ],
+    "lessonIds": [
+      "ux-lesson-131",
+      "ux-lesson-132",
+      "ux-lesson-133",
+      "ux-lesson-134",
+      "ux-lesson-135",
+      "ux-lesson-136",
+      "ux-lesson-137",
+      "ux-lesson-138",
+      "ux-lesson-139",
+      "ux-lesson-140",
+      "ux-lesson-141",
+      "ux-lesson-142",
+      "ux-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-12",
+    "order": 12,
+    "slug": "Figma",
+    "title": "Figma原型、协作与交付",
+    "description": "Figma组件、Auto Layout、协作、标注交付。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "Figma原型、协作与交付"
+    ],
+    "lessonIds": [
+      "ux-lesson-144",
+      "ux-lesson-145",
+      "ux-lesson-146",
+      "ux-lesson-147",
+      "ux-lesson-148",
+      "ux-lesson-149",
+      "ux-lesson-150",
+      "ux-lesson-151",
+      "ux-lesson-152",
+      "ux-lesson-153",
+      "ux-lesson-154",
+      "ux-lesson-155",
+      "ux-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-13",
+    "order": 13,
+    "slug": "可用性测试",
+    "title": "可用性测试、设计评审与迭代",
+    "description": "测试方法、评审流程、迭代优化。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "可用性测试、设计评审与迭代"
+    ],
+    "lessonIds": [
+      "ux-lesson-157",
+      "ux-lesson-158",
+      "ux-lesson-159",
+      "ux-lesson-160",
+      "ux-lesson-161",
+      "ux-lesson-162",
+      "ux-lesson-163",
+      "ux-lesson-164",
+      "ux-lesson-165",
+      "ux-lesson-166",
+      "ux-lesson-167",
+      "ux-lesson-168",
+      "ux-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ux-course-14",
+    "order": 14,
+    "slug": "UIUX项目作品集",
+    "title": "UI/UX项目实战、作品集与面试",
+    "description": "完整项目流程、作品集准备、面试题。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "UI/UX项目实战、作品集与面试"
+    ],
+    "lessonIds": [
+      "ux-lesson-170",
+      "ux-lesson-171",
+      "ux-lesson-172",
+      "ux-lesson-173",
+      "ux-lesson-174",
+      "ux-lesson-175",
+      "ux-lesson-176",
+      "ux-lesson-177",
+      "ux-lesson-178",
+      "ux-lesson-179",
+      "ux-lesson-180",
+      "ux-lesson-181",
+      "ux-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解UX设计流程",
+      "能做用户研究",
+      "会高保真设计",
+      "能产出作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

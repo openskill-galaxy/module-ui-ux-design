@@ -1,0 +1,527 @@
+[
+  {
+    "id": "ux-route-01",
+    "slug": "UIUX路线1",
+    "title": "UIUX路线1",
+    "description": "UIUX路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-02",
+    "slug": "UIUX路线2",
+    "title": "UIUX路线2",
+    "description": "UIUX路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-03",
+    "slug": "UIUX路线3",
+    "title": "UIUX路线3",
+    "description": "UIUX路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-04",
+    "slug": "UIUX路线4",
+    "title": "UIUX路线4",
+    "description": "UIUX路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-05",
+    "slug": "UIUX路线5",
+    "title": "UIUX路线5",
+    "description": "UIUX路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-06",
+    "slug": "UIUX路线6",
+    "title": "UIUX路线6",
+    "description": "UIUX路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-07",
+    "slug": "UIUX路线7",
+    "title": "UIUX路线7",
+    "description": "UIUX路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-08",
+    "slug": "UIUX路线8",
+    "title": "UIUX路线8",
+    "description": "UIUX路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-09",
+    "slug": "UIUX路线9",
+    "title": "UIUX路线9",
+    "description": "UIUX路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-10",
+    "slug": "UIUX路线10",
+    "title": "UIUX路线10",
+    "description": "UIUX路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-11",
+    "slug": "UIUX路线11",
+    "title": "UIUX路线11",
+    "description": "UIUX路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-12",
+    "slug": "UIUX路线12",
+    "title": "UIUX路线12",
+    "description": "UIUX路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-13",
+    "slug": "UIUX路线13",
+    "title": "UIUX路线13",
+    "description": "UIUX路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-14",
+    "slug": "UIUX路线14",
+    "title": "UIUX路线14",
+    "description": "UIUX路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-15",
+    "slug": "UIUX路线15",
+    "title": "UIUX路线15",
+    "description": "UIUX路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-16",
+    "slug": "UIUX路线16",
+    "title": "UIUX路线16",
+    "description": "UIUX路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-17",
+    "slug": "UIUX路线17",
+    "title": "UIUX路线17",
+    "description": "UIUX路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-18",
+    "slug": "UIUX路线18",
+    "title": "UIUX路线18",
+    "description": "UIUX路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-19",
+    "slug": "UIUX路线19",
+    "title": "UIUX路线19",
+    "description": "UIUX路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-20",
+    "slug": "UIUX路线20",
+    "title": "UIUX路线20",
+    "description": "UIUX路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-21",
+    "slug": "UIUX路线21",
+    "title": "UIUX路线21",
+    "description": "UIUX路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-22",
+    "slug": "UIUX路线22",
+    "title": "UIUX路线22",
+    "description": "UIUX路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-23",
+    "slug": "UIUX路线23",
+    "title": "UIUX路线23",
+    "description": "UIUX路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-24",
+    "slug": "UIUX路线24",
+    "title": "UIUX路线24",
+    "description": "UIUX路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-25",
+    "slug": "UIUX路线25",
+    "title": "UIUX路线25",
+    "description": "UIUX路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-26",
+    "slug": "UIUX路线26",
+    "title": "UIUX路线26",
+    "description": "UIUX路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-27",
+    "slug": "UIUX路线27",
+    "title": "UIUX路线27",
+    "description": "UIUX路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-28",
+    "slug": "UIUX路线28",
+    "title": "UIUX路线28",
+    "description": "UIUX路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-29",
+    "slug": "UIUX路线29",
+    "title": "UIUX路线29",
+    "description": "UIUX路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-30",
+    "slug": "UIUX路线30",
+    "title": "UIUX路线30",
+    "description": "UIUX路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-31",
+    "slug": "UIUX路线31",
+    "title": "UIUX路线31",
+    "description": "UIUX路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-32",
+    "slug": "UIUX路线32",
+    "title": "UIUX路线32",
+    "description": "UIUX路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-33",
+    "slug": "UIUX路线33",
+    "title": "UIUX路线33",
+    "description": "UIUX路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-34",
+    "slug": "UIUX路线34",
+    "title": "UIUX路线34",
+    "description": "UIUX路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ux-route-35",
+    "slug": "UIUX路线35",
+    "title": "UIUX路线35",
+    "description": "UIUX路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]

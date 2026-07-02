@@ -1,0 +1,41 @@
+{
+  "id": "mod-ui-ux-design",
+  "slug": "module-ui-ux-design",
+  "title": "UI/UX设计与产品原型",
+  "subtitle": "面向产品经理前端开发者和设计入门者",
+  "description": "面向产品经理前端开发者和设计入门者的用户体验用户研究信息架构交互设计线框图高保真UIFigma设计系统可用性测试与作品集训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "UI设计",
+    "UX设计",
+    "产品原型",
+    "Figma",
+    "交互设计",
+    "设计系统",
+    "用户研究",
+    "作品集"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🎨",
+  "repoUrl": "https://github.com/openskill-galaxy/module-ui-ux-design",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 112
+  }
+}
